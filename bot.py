@@ -19,4 +19,4 @@ async def rules(ctx):
     respectful a nickname will be assigned to you!
     4. No bots allowed - Only our bots. Any unauthorized bots will be banned.""")
 
-client.login(process.env.NDE5NDk2ODMyOTM5NTg5NjMy.DXw-pQ.5oeSUo1VHeCZzJJ0G6IDQP8sSb8)
+client.run(NDE5NDk2ODMyOTM5NTg5NjMy.DXw-pQ.5oeSUo1VHeCZzJJ0G6IDQP8sSb8)
